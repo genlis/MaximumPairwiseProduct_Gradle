@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MaxPairwiseProductTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2016-03-27T22:05:59" hostname="i5" time="0.221">
+  <properties/>
+  <testcase name="test01" classname="MaxPairwiseProductTest" time="0.043"/>
+  <testcase name="test02" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test03" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test04" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test05" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test06" classname="MaxPairwiseProductTest" time="0.004"/>
+  <testcase name="test07" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test08" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test09" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test10" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test11" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test12" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test13" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test14" classname="MaxPairwiseProductTest" time="0.008"/>
+  <testcase name="test15" classname="MaxPairwiseProductTest" time="0.005"/>
+  <testcase name="test16" classname="MaxPairwiseProductTest" time="0.004"/>
+  <testcase name="test17" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test18" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test19" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test20" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test21" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test22" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test23" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test24" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test25" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test26" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test27" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test28" classname="MaxPairwiseProductTest" time="0.001"/>
+  <testcase name="test29" classname="MaxPairwiseProductTest" time="0.0"/>
+  <testcase name="test30" classname="MaxPairwiseProductTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
